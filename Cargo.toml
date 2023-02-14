@@ -1,5 +1,5 @@
 [package]
-name = "audio_switch"
+name = "switch-audio"
 authors = ["Bernardo Lansing"]
 version = "0.1.0"
 edition = "2021"
